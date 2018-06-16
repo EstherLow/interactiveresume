@@ -2,7 +2,6 @@
   "name": "agency",
   "title": "Agency",
   "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/agency",
   "author": "Start Bootstrap",
   "license": {
     "type": "MIT",
@@ -23,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+    "url": "https://github.com/EstherLow/interactiveresume.git"
   }
 }
